@@ -5,7 +5,7 @@
       "LyricLy"
     ],
     "Description": "Displays a static background image (wallpaper) on the homepage.",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "RequiredMods": [],
     "Settings": {
         "CheckboxSettings": [
