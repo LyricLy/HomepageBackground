@@ -1,0 +1,20 @@
+{
+    "HarmonyId": "lyricly.homepagebackground",
+    "DisplayName": "Homepage Background",
+    "Authors": [
+      "LyricLy"
+    ],
+    "Description": "Displays a static background image (wallpaper) on the homepage.",
+    "Version": "1.0.0",
+    "RequiredMods": [],
+    "Settings": {
+        "CheckboxSettings": [
+            {
+                "Name": "Hide news tab",
+                "Description": "Remove the news tab from the homepage.",
+                "DefaultValue": false,
+                "AvailableInGame": false
+            }
+        ]
+    }
+}
